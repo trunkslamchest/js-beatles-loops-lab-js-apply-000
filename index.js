@@ -4,7 +4,7 @@ function theBeatlesPlay(musicians, instruments) {
     for (i = 0; i < musicians.length ;i++) {
       new_arr.push(musicians.shift[0] + 'plays' + instruments.shift[0])
     }
-
+  return new_arr
 }
 
 function johnLennonFacts() {
