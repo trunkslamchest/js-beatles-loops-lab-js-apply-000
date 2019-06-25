@@ -1,5 +1,5 @@
 // add solution here
-function (Beatles Loops)
+function Beatles Loops()
 
 'johnLennonFacts'
 
