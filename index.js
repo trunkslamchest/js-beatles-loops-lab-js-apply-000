@@ -12,6 +12,7 @@ function johnLennonFacts(array) {
     while (array.length > 0) {
       new_arr.push(array.shift() + '!!!')
     }
+  return new_arr
 }
 
 function iLoveTheBeatles() {
