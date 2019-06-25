@@ -1,6 +1,10 @@
 // add solution here
-function Beatles Loops()
+function theBeatlesPlay(musicians, instruments) {
 
-'johnLennonFacts'
+}
+
+funtion johnLennonFacts() {
+  
+}
 
 'iLoveTheBeatles'
