@@ -1,4 +1,6 @@
 // add solution here
-'Beatles Loops'
+function (Beatles Loops)
 
 'johnLennonFacts'
+
+'iLoveTheBeatles'
