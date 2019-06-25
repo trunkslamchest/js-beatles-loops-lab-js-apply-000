@@ -15,10 +15,10 @@ function johnLennonFacts(array) {
   return new_arr
 }
 
-function iLoveTheBeatles(n) {
+function iLoveTheBeatles(num) {
   var new_arr = []
   do {
     i = i + 1;
     new_arr.push('I love the Bearles!');
-  } while (i < 15 - n);
+  } while (i < 15 - num);
 }
